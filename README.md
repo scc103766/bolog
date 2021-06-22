@@ -1,0 +1,3 @@
+# bolog
+pythonDjango智能地摊管理系统
+使用Django系统魔改的地摊管理系统
